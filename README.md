@@ -65,13 +65,15 @@
 * 홈페이지에 접속 후 `측정하러 가기` 버튼 클릭
 
 ### 사이즈 측정
-<img width="633" alt="스크린샷 2022-09-09 오후 5 46 18" src="https://user-images.githubusercontent.com/97662174/189310886-2fb4b734-61c7-4f15-8b05-9a24e4958b12.png">
+<img width="680" alt="스크린샷 2022-09-09 오후 7 01 18" src="https://user-images.githubusercontent.com/97662174/189325088-5a6c2ec8-0dc8-41ed-9df4-b2dd9eb30029.png">
+
 
 * `키를 입력하세요` `몸무게를 입력하세요`에 본인의 키와 몸무게를 입력
 * `바지 사이즈 찾기!` 버튼 클릭
 
 ### 측정 결과
-<img width="715" alt="스크린샷 2022-09-09 오후 5 46 26" src="https://user-images.githubusercontent.com/97662174/189311326-5bebb8f4-9550-498a-956c-ef96a26736ca.png">
+<img width="707" alt="스크린샷 2022-09-09 오후 7 01 25" src="https://user-images.githubusercontent.com/97662174/189325179-920c8bad-1df5-4990-80a7-82568f104ed5.png">
+
 
 * 입력한 키와 몸무게를 바탕으로 사이즈 예측 모델을 통해 최적의 사이즈를 추천
 * 하단 `쇼핑하러 가기` 링크를 통해 최적 사이즈 슬랙스를 쇼핑 
