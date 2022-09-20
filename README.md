@@ -6,12 +6,12 @@
 
 ### &nbsp;
 
-## *파일 설명*
-* tablecreate.py : 사이즈 후기 데이터들이 들어갈 테이블 설계
-* datapull.py : 추출한 데이터들을 테이블에 저장
-* modeling.py : 사이즈 추천 모델로 사용할 선형 회귀 모델 학습
-* model.pkl : 부호화하여 저장한 사이즈 추천 모델
-* flask_app : 서비스 홈페이지 제작
+## :file_folder: 파일 설명
+* **tablecreate.py** : 사이즈 후기 데이터들이 들어갈 테이블 설계
+* **datapull.py** : 추출한 데이터들을 테이블에 저장
+* **modeling.py** : 사이즈 추천 모델로 사용할 선형 회귀 모델 학습
+* **model.pkl** : 부호화하여 저장한 사이즈 추천 모델
+* **flask_app** : 서비스 홈페이지 제작
 
 ### &nbsp;
 
