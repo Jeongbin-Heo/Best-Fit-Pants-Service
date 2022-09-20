@@ -15,7 +15,29 @@
 
 ### &nbsp;
 
-## *I. 서비스 소개*
+## :computer: 사용 Skill
+* **VSCode**
+* **Python 3.8**
+  * SQL 데이터베이스 연동 : psycopg2, requests, bs4
+  * 모델 설계 : pandas, numpy, sklearn, pickle
+* **ML Model**
+  * Linear Regression
+* **DBeaver, PostgreSQL**
+* **Flask**
+* **Heroku**
+* **Metabase**
+
+### &nbsp;
+
+## :pushpin: Contents
+* :one: **서비스 소개**
+* :two: **서비스 설계 과정**
+* :three: **서비스 시연**
+
+
+### &nbsp;
+
+## :one: 서비스 소개
 ### 서비스 설계 배경
 * 슬랙스를 비롯한 하의는 체형을 잘 타는 편이며 온라인으로 구매하고 사이즈가 안맞는 경우가 많음
 * 하지만 근처에 오프라인 매장이 없거나, 옷을 사러갈 시간이 부족한 사람들이 존재
@@ -23,7 +45,7 @@
 
 ### &nbsp;
 
-## *II. 서비스 설계 과정*
+## :two: 서비스 설계 과정
 ### 파이프라인 구성
 <img width="887" alt="스크린샷 2022-09-09 오후 6 17 08" src="https://user-images.githubusercontent.com/97662174/189316176-99056e1f-42e1-4260-9ef6-ae64480b7a68.png">
 
@@ -57,7 +79,7 @@
 
 ### &nbsp;
 
-## *III. 서비스 시연*
+## :three: 서비스 시연
 ### 홈페이지 접속
 <img width="953" alt="스크린샷 2022-09-09 오후 7 22 10" src="https://user-images.githubusercontent.com/97662174/189328842-d24d819e-35e0-4eeb-b8fa-000312503972.png">
 
