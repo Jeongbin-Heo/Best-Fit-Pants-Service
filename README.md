@@ -1,7 +1,6 @@
 # 완벽한 슬랙스 핏을 찾는 당신을 위하여
 * **개요** : 키와 몸무게를 입력하면 최적의 바지 사이즈를 추천해주는 서비스 개발
 * **진행 기간** : 2022. 04. 18 ~ 2022. 04. 22
-* **사용 스킬** : `Requests` `BeautifulSoup` `DBeaver` `PostgreSQL` `Pandas` `Numpy` `Scikit-learn` `Metabase` `Flask` `Heroku`
 
 
 ### &nbsp;
