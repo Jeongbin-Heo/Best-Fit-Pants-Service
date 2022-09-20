@@ -1,4 +1,4 @@
-# 완벽한 슬랙스 핏을 찾는 당신을 위하여
+# :jeans: 완벽한 슬랙스 핏을 찾는 당신을 위하여
 * **진행 기간** : 2022. 04. 18 ~ 2022. 04. 22
 
 
@@ -13,7 +13,7 @@
 
 ### &nbsp;
 
-## :computer: 사용 Skill
+## :books: 사용 Skill
 * **VSCode**
 * **Python 3.8**
   * SQL 데이터베이스 연동 : psycopg2, requests, bs4
