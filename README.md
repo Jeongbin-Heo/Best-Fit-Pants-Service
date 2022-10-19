@@ -52,7 +52,7 @@
 ### 사이즈 후기 데이터 수집 및 데이터베이스 저장
 <img width="401" alt="스크린샷 2022-09-09 오후 5 54 46" src="https://user-images.githubusercontent.com/97662174/189312844-5558cfb3-418f-49bb-93ba-18cfc6a2d943.png">
 
-* 데이터 출처 : [무신사 스탠다드 - 테퍼드 히든 밴딩 크롭 슬랙스](https://www.musinsa.com/app/goods/1149328)
+* 데이터 출처 : [무신사 스탠다드 - 테이퍼드 히든 밴딩 크롭 슬랙스](https://www.musinsa.com/app/goods/1149328)
 * 데이터 설명 : 해당 제품을 구매한 유저들의 `키` `몸무게` `구매 색상` `구매 사이즈` `후기(큼, 적당함, 작음)` 데이터
 
 <img width="531" alt="스크린샷 2022-09-09 오후 6 04 34" src="https://user-images.githubusercontent.com/97662174/189313822-bf127fd4-8800-467b-99b9-d4822c16ae21.png">
@@ -74,6 +74,7 @@
 
 * PostgreSQL 데이터베이스에서 추출하여 Metabase를 이용하여 제작
 * 키/체중별 평균 구매 사이즈, 유저들의 사이즈 후기(큼/적당함/작음) 비율 확인 가능
+
 
 
 ### &nbsp;
